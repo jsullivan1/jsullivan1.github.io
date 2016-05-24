@@ -1,0 +1,26 @@
+body {
+	background:green;
+	font-family: 'Orbitron', sans-serif;
+}
+h1 {
+font-size:50px;
+}
+
+#title {
+	background: blue;
+	width:700px;
+	border-radius: 10px 
+}
+
+img {
+	border-radius: 10px
+}
+
+img {
+	display: block; 
+}
+
+
+h1 {
+margin: 5px; 
+}
